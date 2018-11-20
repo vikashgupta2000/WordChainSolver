@@ -3,12 +3,15 @@
 - Execute ./bin/setup.sh : This script will install all dependencies and will also run Tests
 - Execute ./bin/word_chain_solver.sh : This script will run the MainController.java class which is the entry point of the class.
 
-This script takes 2 arguments:
+**word_chain_solver.sh** script takes 2 arguments:
 
-First argument it takes the file path of the Input file.
+First argument it takes the file path of the Input file with all different words.
 
-Second argument it takes the file path of all the relations separated by space.
+Second argument it takes the file path of all the relations that needs to be found, separated by space.
 
+
+
+# Problem Statement
 
 ```
 Below is a programming problem. Please read the description thoroughly then
